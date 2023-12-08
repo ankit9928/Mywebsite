@@ -201,13 +201,55 @@ export const skills = [
 
   {
     id: 2,
+    title: "Node.js",
+    percentage: "80",
+  },
+
+  {
+    id: 2,
     title: "Javascript",
     percentage: "75",
   },
 
   {
-    id: 3,
-    title: "Css",
+    id: 7,
+    title: "Express",
+    percentage: "80",
+  },
+
+  {
+    id: 8,
+    title: "C++",
+    percentage: "80",
+  },
+
+  {
+    id: 8,
+    title: "Git",
+    percentage: "80",
+  },
+
+  {
+    id: 8,
+    title: "Git-Hub",
+    percentage: "80",
+  },
+
+  {
+    id: 5,
+    title: "DSA",
+    percentage: "60",
+  },
+
+  {
+    id: 6,
+    title: "SQL",
+    percentage: "65",
+  },
+
+  {
+    id: 8,
+    title: "C++",
     percentage: "80",
   },
 
@@ -216,27 +258,9 @@ export const skills = [
     title: "Html",
     percentage: "60",
   },
-
   {
-    id: 5,
-    title: "Jquery",
-    percentage: "60",
-  },
-
-  {
-    id: 6,
-    title: "Mysql",
-    percentage: "65",
-  },
-
-  {
-    id: 7,
-    title: "Php",
-    percentage: "55",
-  },
-  {
-    id: 8,
-    title: "C++",
+    id: 3,
+    title: "Css",
     percentage: "80",
   },
 ];
@@ -245,30 +269,30 @@ export const portfolio = [
   {
     id: 1,
     img: Work7,
-    title: "Flutter Application",
+    title: "Next.js Apllication",
     details: [
       {
         icon: <FiFileText />,
         title: "Project :  ",
-        desc: "Task Manager",
+        desc: "Jotion",
       },
       {
         icon: <FaCode />,
         title: "Language : ",
-        desc: "Flutter",
+        desc: "TypeScript",
       },
       {
         icon: <FiUser />,
         title: "Description :  ",
-        desc: "Implemented CRUD Operation and Notifications",
+        desc: "single space where you can think, write, and plan. Capture thoughts, manage projects.",
       },
 
       {
         icon: <FiExternalLink />,
         title: "Live Demo: ",
-        linkdemo: "https://hd-testing-1aa93.firebaseapp.com/",
+        linkdemo: "https://note-taking-app-phi-navy.vercel.app/",
 
-        desc: "https://hd-testing-1aa93.firebaseapp.com/",
+        desc: "https://note-taking-app-phi-navy.vercel.app/",
       },
     ],
   },
