@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.f7c7458a.css",
+    "main.js": "/MyPortfolio/static/js/main.64919879.js",
+    "static/js/787.465fb3cb.chunk.js": "/MyPortfolio/static/js/787.465fb3cb.chunk.js",
+    "static/media/home-optimize-min.jpg": "/MyPortfolio/static/media/home-optimize-min.796dd8bbd31547c39a1b.jpg",
+    "static/media/home-optimize.jpg": "/MyPortfolio/static/media/home-optimize.796dd8bbd31547c39a1b.jpg",
+    "static/media/home.jpg": "/MyPortfolio/static/media/home.796dd8bbd31547c39a1b.jpg",
+    "static/media/kaayamo.jpg": "/MyPortfolio/static/media/kaayamo.7f31ac3403c445e5be67.jpg",
+    "static/media/prashnottar.png": "/MyPortfolio/static/media/prashnottar.fd24e026dacf47bb3b12.png",
+    "static/media/cronytech.png": "/MyPortfolio/static/media/cronytech.d7f5ff5fe92c17f7e082.png",
+    "static/media/cv.pdf": "/MyPortfolio/static/media/cv.3007fc044ba03a1ff2ea.pdf",
+    "static/media/userquick.png": "/MyPortfolio/static/media/userquick.98b95cc087e7319ee7eb.png",
+    "static/media/flutterapp.png": "/MyPortfolio/static/media/flutterapp.bda58ab216b4384b1439.png",
+    "static/media/saaplab.png": "/MyPortfolio/static/media/saaplab.679a5ff1e85c066548d6.png",
+    "static/media/musicplayer.png": "/MyPortfolio/static/media/musicplayer.c4f89ec1b67d3bc904b3.png",
+    "static/media/textutils.png": "/MyPortfolio/static/media/textutils.d7dd46257c2a7e426eb4.png",
+    "index.html": "/MyPortfolio/index.html",
+    "static/media/close-1.svg": "/MyPortfolio/static/media/close-1.62d542d8225e9ae56794bdce0b546338.svg",
+    "main.f7c7458a.css.map": "/MyPortfolio/static/css/main.f7c7458a.css.map",
+    "main.64919879.js.map": "/MyPortfolio/static/js/main.64919879.js.map",
+    "787.465fb3cb.chunk.js.map": "/MyPortfolio/static/js/787.465fb3cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7c7458a.css",
+    "static/js/main.64919879.js"
+  ]
+}
